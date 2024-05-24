@@ -1,0 +1,184 @@
+  <!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta charset='utf-8' />
+   <script src='https://cdn.jsdelivr.net/npm/fullcalendar-scheduler@6.1.11/index.global.min.js'></script>
+
+ <!-- <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.11/index.global.min.js'></script>-->
+ <style>
+  :root { /*do not show highlight for current day*/
+    --fc-today-bg-color: #ffffff !important;
+}
+.fc-daygrid-event { /*wrap titles inside calendar cell */
+  white-space: normal !important;
+  align-items: normal !important;
+}
+  .fc-col-header-cell {
+    background-color: rgb(0, 255, 200);
+}
+.fc .fc-bg-event .fc-event-title { /*background text*/
+  /* position:relative;
+  z-index:-1; */
+  font-weight:bolder;
+  margin-top:20px;
+  /* width:10px; */
+  /* white-space: pre;
+  text-wrap: balance; */
+  color:white;
+  /* opacity:unset; */
+}
+
+/* .fc-col-header, .fc-timegrid-body { width: 100% !important; }
+.fc-timegrid-body { table { width: 100% !important; } } */
+
+.fc-direction-ltr .fc-daygrid-event.fc-event-start, .fc-direction-rtl .fc-daygrid-event.fc-event-end {
+  margin-top:25px;
+}
+
+/* .fc-day-sat,.fc-day-sun {
+  background-color: azure;
+} */
+
+ </style>
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        var calendarEl = document.getElementById('calendar');
+        var calendar = new FullCalendar.Calendar(calendarEl, {
+            // plugins : [
+            //     adaptivePlugin
+            // ],
+         //   themeSystem : "bootstrap5",
+             themeSystem : "flatly",
+           //  businessHours:true,
+             eventOrder : 'displayOrder',
+            //themeSystem : "Sandstone",
+          //   themeSystem : "minty",
+          //  themeSystem : "litera",
+        //  scrollTimeReset:false,
+            aspectRatio: .5,
+            nextDayThreshold: '00:00:00', // 12am
+          //  expandRows: true,
+            contentHeight: 150,
+            height: 600,
+            schedulerLicenseKey: 'CC-Attribution-NonCommercial-NoDerivatives',
+         // initialView: 'resourceTimelineWeek',
+          initialView: 'dayGridMonth',
+          showNonCurrentDates:false,
+         // initialView: 'timeGridWeek',
+        //  initialView: 'listWeek',
+        //    initialView: 'multiMonthYear',
+            headerToolbar: {
+              //  left: 'prev,next,today',
+                left: '',
+                center: 'title',
+            //    center: 'dayGridMonth,timeGridWeek',
+                right: ''
+             //  right: 'multiMonthYear,dayGridMonth,listYear'
+                },
+           events: 'eventsNEWSLETTER.json'
+    //         events: [
+    //     {
+    //     title: 'Field Day',
+    //     start: '2024-05-23T08:15:00',
+    //     end: '2024-05-23T12:00:00',
+    //     overlap: false,
+    //     allDay: true,
+    //     color: '#ff9f89'
+    //     },
+    //     {
+    //     title: 'Field Day',
+    //     start: '2024-05-23T08:15:00',
+    //     end: '2024-05-23T12:00:00',
+    //     overlap: false,
+    //     allDay: true,
+    //     color: '#ff9f89'
+    //     }
+    // ]
+        });
+        calendar.render();
+      });
+
+      document.addEventListener('DOMContentLoaded', function() {
+        var calendarEl2 = document.getElementById('calendar2');
+        var calendar2 = new FullCalendar.Calendar(calendarEl2, {
+            schedulerLicenseKey: 'CC-Attribution-NonCommercial-NoDerivatives',
+         // initialView: 'resourceTimelineWeek',
+         // initialView: 'dayGridMonth',
+         // initialView: 'timeGridWeek',
+            initialView: 'listYear',
+        //    initialView: 'multiMonthYear',
+            headerToolbar: {
+                left: '',
+                center: 'title',
+                right: ''
+                },
+           // events: 'events.json'
+            events: [
+            {
+            "title": "Used Uniform Sale",
+            "start": "2024-08-21T09:00:00",
+            "end": "2024-08-21T11:00:00",
+            "overlap": false,
+            "allDay": false,
+            "category": "school",
+            "color": "#256eff"
+        },
+        {
+            "title": "First Day of School (K-8) - Dismiss at 12p",
+            "start": "2024-08-27T08:15:00",
+            "end": "2024-08-27T12:00:00",
+            "overlap": false,
+            "allDay": false,
+            "category": "half-day",
+            "color": "#3ddc97"
+        },
+        {
+            "title": "First Full Day of School for (K-8); Aftercare Begins",
+            "start": "2024-08-28T08:15:00",
+            "end": "2024-08-28T15:00:00",
+            "overlap": false,
+            "allDay": false,
+            "category": "school",
+            "color": "#256eff"
+        },
+        {
+            "title": "PK Orientation",
+            "start": "2024-08-28T10:30:00",
+            "end": "2024-08-28T11:30:00",
+            "overlap": false,
+            "allDay": false,
+            "category": "school",
+            "color": "#256eff"
+        },
+        {
+            "title": "First Day of PK - All Dismiss at 12p",
+            "start": "2024-08-29T08:15:00",
+            "end": "2024-08-29T12:00:00",
+            "overlap": false,
+            "allDay": false,
+            "category": "half-day",
+            "color": "#3ddc97"
+        },
+        {
+            "title": "Christmas",
+            "start": "2024-12-25T00:00:00",
+            "end": "2024-12-25T00:00:00",
+            "overlap": false,
+            "allDay": true,
+            "category": "holiday",
+            "color": "#ffccff"
+        }
+    ]
+
+        });
+        calendar2.render();
+      });
+
+    </script>
+  </head>
+  <body>
+    <div id='calendar'></div>
+    <br/><br/>
+    <!-- <div id='calendar2'></div> -->
+  </body>
+</html>

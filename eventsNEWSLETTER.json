@@ -1,0 +1,842 @@
+[
+  {
+    "title": "Field Day",
+    "start": "2024-05-23T08:15:00",
+    "end": "2024-05-23T12:00:00",
+    "overlap": false,
+    "allDay": false,
+    "color": ""
+  },
+  {
+    "title": "NO SCHOOL - MEMORIAL DAY",
+    "start": "2024-05-27",
+    "end": "2024-05-27",
+    "overlap": false,
+    "allDay": true,
+    "display":"background",
+    "color": "#8B0000"
+  },
+  {
+    "title": "NOON DISMISSAL",
+    "start": "2024-05-23T12:00:00",
+    "end": "2024-05-23T12:00:00",
+    "overlap": false,
+    "allDay": true,
+    "display":"background",
+    "color": "#006400"
+  },
+  {
+    "title": "8th GRADE GRADUATION",
+    "start": "2024-05-31T13:00:00",
+    "end": "2024-05-31T15:00:00",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "NOON DISMISSAL* (PK-7)",
+    "start": "2024-06-05",
+    "end": "2024-06-05",
+    "overlap": false,
+    "allDay": true,
+    "display":"background",
+    "color": "#006400"
+  },
+  {
+    "title": "Report Card Distribution",
+    "start": "2024-06-05",
+    "end": "2024-06-05",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "LAST DAY!",
+    "start": "2024-06-06",
+    "end": "2024-06-06",
+    "overlap": false,
+    "allDay": true,
+    "display":"block",
+    "color": "#006477"
+  },
+  {
+    "title": "Closing Mass & KINDERGARTEN GRADUATION",
+    "start": "2025-06-06T10:30:00",
+    "end": "2025-06-06T12:30:00",
+    "overlap": false,
+    "allDay": false,
+    "color": ""
+  },
+  {
+    "title": "Used Uniform Sale",
+    "start": "2024-08-21T09:00:00",
+    "end": "2024-08-21T11:00:00",
+    "overlap": false,
+    "allDay": false,
+    "color": ""
+  },
+  {
+    "title": "FIRST DAY OF SCHOOL (K-8)",
+    "start": "2024-08-27",
+    "end": "2024-08-27",
+    "overlap": false,
+    "allDay": true,
+    "display":"block",
+    "color": "#006477"
+  },
+  {
+    "title": "NOON DISMISSAL",
+    "start": "2024-08-27T12:00:00",
+    "end": "2024-08-27T12:00:00",
+    "overlap": false,
+    "allDay": true,
+    "display":"background",
+    "color": "#006400"
+  },
+  {
+    "title": "First Full Day K-8",
+    "start": "2024-08-28T08:15:00",
+    "end": "2024-08-28T15:00:00",
+    "overlap": false,
+    "allDay": true,
+    "displayOrder":1,
+    "color": ""
+  },
+  {
+    "title": "Aftercare Begins",
+    "start": "2024-08-28T15:00:00",
+    "end": "2024-08-28T18:00:00",
+    "overlap": false,
+    "allDay": true,
+    "displayOrder":2,
+    "color": ""
+  },
+  {
+    "title": "PK ORIENTATION",
+    "start": "2024-08-28T10:30:00",
+    "end": "2024-08-28T11:30:00",
+    "overlap": false,
+    "allDay": false,
+    "color":""
+  },
+  {
+    "title": "FIRST DAY PK",
+    "start": "2024-08-29",
+    "end": "2024-08-29",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "NOON DISMISSAL*",
+    "start": "2024-08-29",
+    "end": "2024-08-29",
+    "overlap": false,
+    "allDay": true,
+    "display":"background",
+    "color": "#006400"
+  },
+  {
+    "title": "HSA Back To School Picnic",
+    "start": "2024-08-29T18:30:00",
+    "end": "2024-08-29T19:30:00",
+    "overlap": false,
+    "allDay":false,
+    "color": ""
+  },
+  {
+    "title": "First Full Day PK (PK - Dismiss At 1 or 2:50)",
+    "start": "2024-08-30",
+    "end": "2024-08-30",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "NO SCHOOL - LABOR DAY",
+    "start": "2024-09-02",
+    "end": "2024-09-02",
+    "overlap": false,
+    "allDay": true,
+    "display":"background",
+    "color": "#8B0000"
+  },
+  {
+    "title": "Aftercare Begins FOR PK",
+    "start": "2024-09-03",
+    "end": "2024-09-03",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "Hot Lunch Begins (PK-8)",
+    "start": "2024-09-03",
+    "end": "2024-09-03",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "Back To School Night",
+    "start": "2024-09-12T18:30:00",
+    "end": "2024-09-12T21:00:00",
+    "overlap": false,
+    "allDay": false,
+    "color": ""
+  },
+  {
+    "title": "High School Info Meeting",
+    "start": "2024-09-19T20:30:00",
+    "end": "2024-09-19T21:30:00",
+    "overlap": false,
+    "allDay": false,
+    "color": ""
+  },
+  {
+    "title": "NOON DISMISSAL*",
+    "start": "2024-09-20T12:00:00",
+    "end": "2024-09-20T12:00:00",
+    "overlap": false,
+    "allDay": true,
+    "display":"background",
+    "color": "#006400"
+  },
+  {
+    "title": "MAP Standardized Testing (2-8)",
+    "start": "2024-09-23T00:00:00",
+    "end": "2024-09-27T24:00:00",
+    "allDay": true,
+    "display":"block",
+    "color": ""
+  },
+  {
+    "title": "HSA Sponsored Coffee with Miss Short (PK-2)",
+    "start": "2024-09-27T08:30:00",
+    "end": "2024-09-27:09:30:00",
+    "overlap": false,
+    "allDay": false,
+    "color": ""
+  },
+  {
+    "title": "Annual Golf Tournament",
+    "start": "2024-09-30",
+    "end": "2024-09-30",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "Grandparents Day",
+    "start": "2024-10-02T09:00:00",
+    "end": "2024-10-02T11:00:00",
+    "overlap": false,
+    "allDay": false,
+    "color": ""
+  },
+  {
+    "title": "HSA Sponsored coffee with Miss Short (Grades 3-5)",
+    "start": "2024-10-04T08:30:00",
+    "end": "2024-10-04T09:30:00",
+    "overlap": false,
+    "allDay": false,
+    "color": ""
+  },
+  {
+    "title": "Individual Student Picture Day Grades 3-8",
+    "start": "2024-10-07",
+    "end": "2024-10-07",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "Individual Student Picture Day Grades PK-2",
+    "start": "2024-10-08",
+    "end": "2024-10-08",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "Class Picture Day - PK-8",
+    "start": "2024-10-09",
+    "end": "2024-10-09",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "HSA Sponsored Halloween Party",
+    "start": "2024-10-25T18:30:00",
+    "end": "2024-10-25T20:00:00",
+    "overlap": false,
+    "allDay": false,
+    "color": ""
+  },
+  {
+    "title": "NO SCHOOL (PK-8) - CSO required PDD",
+    "start": "2024-10-28",
+    "end": "2024-10-28",
+    "allDay": true,
+    "display":"background",
+    "color": "#8B0000"
+  },
+  {
+    "title": "Annual Halloween Parade & Class Party",
+    "start": "2024-10-31T13:30:00",
+    "end": "2024-10-31T15:00:00",
+    "overlap": false,
+    "allDay": false,
+    "color": ""
+  },
+  {
+    "title": "NOON DISMISSAL*",
+    "start": "2024-11-01",
+    "end": "2024-11-01",
+    "overlap": false,
+    "allDay": true,
+    "display":"background",
+    "color": "#006400"
+  },
+  {
+    "title": "END 1st Quarter",
+    "start": "2024-11-01",
+    "end": "2024-11-01",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "Report Card Distribution (1-8)",
+    "start": "2024-11-06",
+    "end": "2024-11-06",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "Open House - Prospective K-8",
+    "start": "2024-11-08",
+    "end": "2024-11-08",
+    "overlap": false,
+    "displayOrder":2,
+    "allDay": true,
+    "textColor":"#ffffff",
+    "borderColor":"#000000",
+    "color": ""
+  },
+  {
+    "title": "NOON DISMISSAL*",
+    "start": "2024-11-08",
+    "end": "2024-11-08",
+    "overlap": false,
+    "allDay": true,
+    "display":"background",
+    "textColor":"#000000",
+    "color": "#006400"
+  },
+  {
+    "title": "Parent Teacher Conferences",
+    "start": "2024-11-08T13:00:00",
+    "end": "2024-11-08T16:00:00",
+    "overlap": false,
+    "displayOrder":1,
+    "allDay": false,
+    "color": ""
+  },
+  {
+    "title": "Open House - Prospective PK Families",
+    "start": "2024-11-10",
+    "end": "2024-11-10",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "NO SCHOOL - Veterans Day",
+    "start": "2024-11-11",
+    "end": "2024-11-11",
+    "overlap": false,
+    "allDay": true,
+    "display":"background",
+    "color": "#8B0000"
+  },
+  {
+    "title": "Parent Teacher Conferences",
+    "start": "2024-11-11T08:00:00",
+    "end": "2024-11-11T16:00:00",
+    "overlap": false,
+    "allDay": false,
+    "color": ""
+  },
+  {
+    "title": "Christmas Market Sip & Shop",
+    "start": "2024-11-14T19:00:00",
+    "end": "2024-11-14T22:00:00",
+    "overlap": false,
+    "allDay": false,
+    "color": ""
+  },
+  {
+    "title": "HSA Sponsored Trivia Night For Parents",
+    "start": "2024-11-16",
+    "end": "2024-11-16",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "NOON DISMISSAL*",
+    "start": "2024-11-26",
+    "end": "2024-11-26",
+    "overlap": false,
+    "allDay": true,
+    "display":"background",
+    "color": "#006400"
+  },
+  {
+    "title": "NO SCHOOL - Thanksgiving Holiday",
+    "start": "2024-11-27T00:00:00",
+    "end": "2024-11-29T24:00:00",
+    "overlap": false,
+    "allDay": true,
+    "display":"background",
+    "color": "#8B0000"
+  },
+  {
+    "title": "Classes Resume",
+    "start": "2024-12-02",
+    "end": "2024-12-02",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "Santa Shop for Students",
+    "start": "2024-12-12T00:00:00",
+    "end": "2024-12-13T24:00:00",
+    "overlap": false,
+    "allDay": true,
+    "display":"block",
+    "color": ""
+  },
+  {
+    "title": "HSA Sponsored Breakfast With Santa",
+    "start": "2024-12-14",
+    "end": "2024-12-14",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "Christmas Play (K-8)",
+    "start": "2024-12-18T18:30:00",
+    "end": "2024-12-18T20:30:00",
+    "overlap": false,
+    "allDay": false,
+    "color": ""
+  },
+  {
+    "title": "NOON DISMISSAL* (PK-8)",
+    "start": "2024-12-20",
+    "end": "2024-12-20",
+    "overlap": false,
+    "allDay": true,
+    "display":"background",
+    "color": "#006400"
+  },
+  {
+    "title": "NO SCHOOL - Christmas Holiday",
+    "start": "2024-12-23T00:00:00",
+    "end": "2024-12-31T24:00:00",
+    "overlap": false,
+    "allDay": true,
+    "display":"background",
+    "color": "#8B0000"
+  },
+  {
+    "title": "NO SCHOOL - New Year’s Holiday",
+    "start": "2025-01-01",
+    "end": "2025-01-01",
+    "overlap": false,
+    "allDay": true,
+    "display":"background",
+    "color": "#8B0000"
+  },
+  {
+    "title": "Classes Resume",
+    "start": "2025-01-02",
+    "end": "2025-01-02",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "NOON DISMISSAL*",
+    "start": "2025-01-17",
+    "end": "2025-01-17",
+    "overlap": false,
+    "display":"background",
+    "allDay": true,
+    "color": "#006400"
+  },
+  {
+    "title": "END of 2nd Quarter",
+    "start": "2025-01-17",
+    "end": "2025-01-17",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "NO SCHOOL - Martin Luther King Holiday",
+    "start": "2025-01-20",
+    "end": "2025-01-20",
+    "overlap": false,
+    "allDay": true,
+    "display":"background",
+    "color": "#8B0000"
+  },
+  {
+    "title": "MAP Testing",
+    "start": "2025-01-22",
+    "end": "2025-01-24",
+    "allDay": true,
+    "color": ""
+},
+  {
+    "title": "Report Card Distribution (PK-8)",
+    "start": "2025-01-24",
+    "end": "2025-01-24",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "Open House Prospective PK Families",
+    "start": "2025-01-24T09:00:00",
+    "end": "2025-01-24T11:00:00",
+    "overlap": false,
+    "allDay": false,
+    "color": ""
+  },
+  {
+    "title": "National Catholic Schools Week & Annual Book Fair",
+    "start": "2025-01-26T00:00:00",
+    "end": "2025-01-31T24:00:00",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "Open House - Prospective K-8",
+    "start": "2025-01-31",
+    "end": "2025-01-31",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "HSA Sponsored Bingo Night",
+    "start": "2025-01-31T18:30:00",
+    "end": "2025-01-31T20:00:00",
+    "overlap": false,
+    "allDay": false,
+    "color": ""
+  },
+  {
+    "title": "NOON DISMISSAL* (PK-8)",
+    "start": "2025-02-14",
+    "end": "2025-02-14",
+    "overlap": false,
+    "allDay": true,
+    "display":"background",
+    "color": "#006400"
+  },
+  {
+    "title": "NO SCHOOL - President’s Day Holiday",
+    "start": "2025-02-17",
+    "end": "2025-02-17",
+    "overlap": false,
+    "allDay": true,
+    "display":"background",
+    "color": "#8B0000"
+  },
+  {
+    "title": "NOON DISMISSAL*",
+    "start": "2025-02-26",
+    "end": "2025-02-26",
+    "overlap": false,
+    "allDay": true,
+    "display":"background",
+    "color": "#006400"
+  },
+  {
+    "title": "Faculty Retreat",
+    "start": "2025-02-26",
+    "end": "2025-02-26",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "Ash Wednesday - Lent Begins",
+    "start": "2025-03-05",
+    "end": "2025-03-05",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "NO SCHOOL (PK-8)",
+    "start": "2025-03-07",
+    "end": "2025-03-07",
+    "overlap": false,
+    "allDay": true,
+    "display":"background",
+    "color": "#8B0000"
+  },
+  {
+    "title": "CSO PDD for Teachers",
+    "start": "2025-03-07",
+    "end": "2025-03-07",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "Pub Night",
+    "start": "2025-03-15",
+    "end": "2025-03-15",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "NOON DISMISSAL*",
+    "start": "2025-03-20",
+    "end": "2025-03-20",
+    "overlap": false,
+    "allDay": true,
+    "display":"background",
+    "color": "#006400"
+  },
+  {
+    "title": "End of 3rd Quarter",
+    "start": "2025-03-20",
+    "end": "2025-03-20",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "NO SCHOOL - Pastor’s Holiday",
+    "start": "2025-03-21",
+    "end": "2025-03-21",
+    "overlap": false,
+    "allDay": true,
+    "display":"background",
+    "color": "#8B0000"
+  },
+  {
+    "title": "NO SCHOOL - Principal’s Holiday",
+    "start": "2025-03-24",
+    "end": "2025-03-24",
+    "overlap": false,
+    "allDay": true,
+    "display":"background",
+    "color": "#8B0000"
+  },
+  {
+    "title": "Report Card Distribution (1-8)",
+    "start": "2025-03-28",
+    "end": "2025-03-28",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "NOON DISMISSAL*",
+    "start": "2025-04-17",
+    "end": "2025-04-17",
+    "overlap": false,
+    "allDay": true,
+    "display":"background",
+    "color": "#006400"
+  },
+  {
+    "title": "Easter Holiday",
+    "start": "2025-04-18T00:00:00",
+    "end": "2025-04-25T24:00:00",
+    "overlap": false,
+    "allDay": true,
+    "display":"background",
+    "color": "#8B0000"
+  },
+  {
+    "title": "Classes Resume",
+    "start": "2025-04-28",
+    "end": "2025-04-28",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "MAP Testing Begins",
+    "start": "2025-05-01",
+    "end": "2025-05-01",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "Junior High Night",
+    "start": "2025-05-02",
+    "end": "2025-05-02",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "New Parent Coffee",
+    "start": "2025-05-16T09:00:00",
+    "end": "2025-05-16T10:00:00",
+    "overlap": false,
+    "allDay": false,
+    "color": ""
+  },
+  {
+    "title": "8th Grade Final Exam",
+    "start": "2025-05-16",
+    "end": "2025-05-16",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "7th & 8th Grade Final Exam",
+    "start": "2025-05-21",
+    "end": "2025-05-21",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "NOON DISMISSAL*",
+    "start": "2025-05-23",
+    "end": "2025-05-23",
+    "overlap": false,
+    "display":"background",
+    "allDay": true,
+    "color": "#006400"
+  },
+  {
+    "title": "FIELD DAY",
+    "start": "2025-05-23",
+    "end": "2025-05-23",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "NO SCHOOL - Memorial Day Holiday",
+    "start": "2025-05-26",
+    "end": "2025-05-26",
+    "overlap": false,
+    "allDay": true,
+    "display":"background",
+    "color": "#8B0000"
+  },
+  {
+    "title": "Annual Volunteer & Leadership Reception",
+    "start": "2025-05-27",
+    "end": "2025-05-27",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "Last Day For Grade 8 Only",
+    "start": "2025-05-28",
+    "end": "2025-05-28",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "7th Grade Final Exam",
+    "start": "2025-05-29",
+    "end": "2025-05-29",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "8th Grade Dinner",
+    "start": "2025-05-29T18:30:00",
+    "end": "2025-05-29T21:00:00",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "8th GRADE GRADUATION",
+    "start": "2025-05-30T13:00:00",
+    "end": "2025-05-30T15:00:00",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "NOON DISMISSAL* (PK-7)",
+    "start": "2025-06-04",
+    "end": "2025-06-04",
+    "overlap": false,
+    "allDay": true,
+    "display":"background",
+    "color": "#006400"
+  },
+  {
+    "title": "LAST DAY FOR PK",
+    "start": "2025-06-04",
+    "end": "2025-06-04",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "NOON DISMISSAL* (PK-7)",
+    "start": "2025-06-05",
+    "end": "2025-06-05",
+    "overlap": false,
+    "allDay": true,
+    "display":"background",
+    "color": "#006400"
+  },
+  {
+    "title": "Report Card Distribution",
+    "start": "2025-06-05",
+    "end": "2025-06-05",
+    "overlap": false,
+    "allDay": true,
+    "color": ""
+  },
+  {
+    "title": "LAST DAY!",
+    "start": "2025-06-06",
+    "end": "2025-06-06",
+    "overlap": false,
+    "allDay": true,
+    "display":"block",
+    "color": "#006477"
+  },
+  {
+    "title": "Closing Mass & KINDERGARTEN GRADUATION",
+    "start": "2025-06-06T10:30:00",
+    "end": "2025-06-06T12:30:00",
+    "overlap": false,
+    "allDay": false,
+    "color": ""
+  }
+]
